@@ -1,0 +1,2 @@
+# Qtboy
+core.excludesFile
